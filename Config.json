@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "prefix": "/",
+    "activity": "Sit Logs",
+    "developers": [],
+    "globalSlashCommands": true,
+    "slashCommandServerID": false
+}
